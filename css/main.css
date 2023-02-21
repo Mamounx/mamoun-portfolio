@@ -95,6 +95,10 @@ a:active {
   outline: 0;
 }
 
+.text-bold {
+  font-weight: bold;
+}
+
 /** 
  * ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss)
@@ -2534,7 +2538,6 @@ header .logo a {
   width: 200px;
   height: 100px;
   object-fit: contain;
-  mix-blend-mode: color-burn;
 }
 
 /**
