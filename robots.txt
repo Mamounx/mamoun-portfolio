@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mamountavakol.com/sitemap.xml
+Sitemap: https://mamoun-tavakol.netlify.app/sitemap.xml
